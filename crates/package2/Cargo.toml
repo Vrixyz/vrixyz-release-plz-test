@@ -6,7 +6,7 @@ license = "Unlicense"
 description = "a test package for me to experiment with crates.io"
 
 [lib]
-name = "vrixyz-test-package2"
+name = "vrixyz_test_package1"
 path = "../../src/lib.rs"
 
 [dependencies]
