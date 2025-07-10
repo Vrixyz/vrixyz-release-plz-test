@@ -6,9 +6,9 @@ git_tag_enable = false
 # Disable changelog updates
 changelog_update = false
 
-# Options for the package I care the most, e.g. `my_main_package`.
+# Options for 1 package
 [[package]]
-name = "my_main_package"
+name = "package1"
 # (Optional) Customize the git tag name to remove the `my_main_package` prefix.
 git_tag_name = "v{{ version }}"
 
@@ -17,3 +17,6 @@ git_tag_enable = true
 
 # Enable git releases for this package
 git_release_enable = true
+
+# enable semver_checks for this package
+semver_check = true
