@@ -3,9 +3,9 @@
 version = 4
 
 [[package]]
-name = "package1"
+name = "vrixyz-test-package1"
 version = "0.1.0"
 
 [[package]]
-name = "package2"
+name = "vrixyz-test-package2"
 version = "0.1.0"
