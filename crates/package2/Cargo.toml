@@ -1,6 +1,6 @@
 [package]
 name = "vrixyz-test-package2"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 license = "Unlicense"
 description = "a test package for me to experiment with crates.io"
